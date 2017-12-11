@@ -1,2 +1,1 @@
-This repository consists of code for pre-processing and implementation of CNN for classifying the fundus images into five different classes corresponding 
-into five diferent levels of Diabetic Retinopathy(DR) disease. Project Report describes the implementation 
+This repository consists of pre-processed image dataset,labels, code for pre-processing the image data ,and implementation of CNN for classifying the fundus images into five different classes corresponding to five diferent levels of Diabetic Retinopathy(DR) disease. Project Report describes the implementation 
